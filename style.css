@@ -1,0 +1,22 @@
+.title {
+  font-family:Constantia;
+  background-color:lightblue;
+  width: 60%;
+  margin: auto;
+  text-align:center;
+}
+.position{
+  display:flex;
+  width: 30%;
+  margin: 2% auto;
+  background-color:silver;
+}
+.zonaPulsador{
+  background-color: #0FDCCD;
+  width: 7vw;
+  height: 7vw;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  margin: auto;
+}
